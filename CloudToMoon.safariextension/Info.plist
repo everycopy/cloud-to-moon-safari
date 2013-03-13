@@ -22,7 +22,7 @@
 	<dict>
 		<key>Scripts</key>
 		<dict>
-			<key>Start</key>
+			<key>End</key>
 			<array>
 				<string>cloudtomoon.js</string>
 			</array>
