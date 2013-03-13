@@ -1,6 +1,6 @@
 # cloud-to-moon-safari
 
-Derived from the work of Steven Frank’s [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt) Chrome extension, Logan Collins’ [cloud-to-butt-safari](https://github.com/logancollins/cloud-to-butt-safari) Safari extension, and Paul Mison’s [astronautical idea](https://github.com/blech/cloud-to-moon).
+Derived from the work of Steven Frank’s [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt) Chrome extension, Logan Collins’ [cloud-to-butt-safari](https://github.com/logancollins/cloud-to-butt-safari) Safari extension, and Paul Mison’s [astronautical implementation](https://github.com/blech/cloud-to-moon).
 
 
 ## Installing
