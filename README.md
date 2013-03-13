@@ -14,3 +14,4 @@ Download [CloudToButt.safariextz.zip](https://github.com/everycopy/cloud-to-moon
 2. Open Safari and in the ‘Advanced’ preferences panel enable ‘Show Develop menu in menu bar’.
 3. Choose ‘Show Extension Builder’ from the ‘Develop’ menu.
 4. Choose ‘Add Extension’… from the ‘+’ button and select the ‘CloudToMoon.safariextension’ folder.
+5. Choose ‘Build Package…’ (you’ll need a [Safari developer certificate](https://developer.apple.com/certificates/index.action#safarilist)).
