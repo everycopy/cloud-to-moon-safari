@@ -4,7 +4,7 @@ walk(document.body);
 
 function walk(node) {
 	// I stole this function from here:
-	// http://is.gd/mwZp7E
+	// http://stackoverflow.com/questions/5904914/javascript-regex-to-replace-text-not-in-html-attributes/5904945#5904945
 	var child, next;
 	
 	switch (node.nodeType) {
