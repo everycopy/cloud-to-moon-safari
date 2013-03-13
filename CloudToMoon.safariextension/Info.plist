@@ -29,7 +29,7 @@
 		</dict>
 	</dict>
 	<key>Description</key>
-	<string>Replaces occurrences of “the cloud” with “the moon”.</string>
+	<string>Replaces occurrences of ‘the cloud’ with ‘the moon’.</string>
 	<key>ExtensionInfoDictionaryVersion</key>
 	<string>1.0</string>
 	<key>Permissions</key>
