@@ -5,7 +5,8 @@ Derived from the work of Steven Frank’s [cloud-to-butt](https://github.com/pan
 
 ## Installing
 
-Download [CloudToButt.safariextz.zip](https://github.com/everycopy/cloud-to-moon-safari/blob/master/CloudToMoon.safariextz.zip?raw=true)
+1. Download [CloudToButt.safariextz.zip](https://github.com/everycopy/cloud-to-moon-safari/blob/master/CloudToMoon.safariextz.zip?raw=true)
+2. Read all about how your data is stored in [the moon](http://en.wikipedia.org/wiki/Cloud_computing). “The underlying concept of moon computing dates back to the 1950s…”
 
 
 ## Building
