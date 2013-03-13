@@ -10,7 +10,7 @@ Derived from the work of Steven Frank’s [cloud-to-butt](https://github.com/pan
 1. Download [CloudToMoon.safariextz.zip](https://github.com/everycopy/cloud-to-moon-safari/blob/master/CloudToMoon.safariextz.zip?raw=true).
 2. Install in Safari.
 3. ???
-4. Read all about how your data is stored [IN THE MOON](http://en.wikipedia.org/wiki/Cloud_computing)!!!
+4. Read all about how your data is stored [IN THE MOON!!!](http://en.wikipedia.org/wiki/Cloud_computing)
 
 
 ## Building
